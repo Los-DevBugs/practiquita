@@ -102,17 +102,17 @@ namespace CapaNegocio
             }
         }
 
-        public DataTable Buscar()
+        public DataTable Buscar(string criterio)
         {
             using (SqlConnection conexion = new SqlConnection(cadena))
             {
-                string consulta = "SELECT * FROM TDocente WHERE CodDocente = @CodDocente";
+                string consulta = "SELECT * FROM TDocente WHERE CodDocente = @Criterio OR Usuario LIKE '%' + @Criterio + '%'";
                 SqlCommand comando = new SqlCommand(consulta, conexion);
-                comando.Parameters.AddWithValue("@CodDocente", CodDocente);
+                comando.Parameters.AddWithValue("@Criterio", criterio);
                 SqlDataAdapter adapter = new SqlDataAdapter(comando);
-                DataTable tabla = new DataTable();
-                adapter.Fill(tabla);
-                return tabla;
+                DataTable table = new DataTable();
+                adapter.Fill(table);
+                return table;
             }
 
         }

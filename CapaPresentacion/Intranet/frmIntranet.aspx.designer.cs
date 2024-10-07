@@ -15,6 +15,15 @@ namespace CapaPresentacion.Intranet
     {
 
         /// <summary>
+        /// Control hdnActiveTabIndex.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HiddenField hdnActiveTabIndex;
+
+        /// <summary>
         /// Control txtCodAlumno.
         /// </summary>
         /// <remarks>
@@ -24,40 +33,40 @@ namespace CapaPresentacion.Intranet
         protected global::System.Web.UI.WebControls.TextBox txtCodAlumno;
 
         /// <summary>
-        /// Control txtAPaterno.
+        /// Control txtAPaternoAlumno.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtAPaterno;
+        protected global::System.Web.UI.WebControls.TextBox txtAPaternoAlumno;
 
         /// <summary>
-        /// Control txtAMaterno.
+        /// Control txtAMaternoAlumno.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtAMaterno;
+        protected global::System.Web.UI.WebControls.TextBox txtAMaternoAlumno;
 
         /// <summary>
-        /// Control txtNombres.
+        /// Control txtNombresAlumno.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtNombres;
+        protected global::System.Web.UI.WebControls.TextBox txtNombresAlumno;
 
         /// <summary>
-        /// Control txtUsuario.
+        /// Control txtUsuarioAlumno.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtUsuario;
+        protected global::System.Web.UI.WebControls.TextBox txtUsuarioAlumno;
 
         /// <summary>
         /// Control txtCodCarrera.
@@ -69,49 +78,49 @@ namespace CapaPresentacion.Intranet
         protected global::System.Web.UI.WebControls.TextBox txtCodCarrera;
 
         /// <summary>
-        /// Control btnAgregar.
+        /// Control btnAgregarAlumno.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnAgregar;
+        protected global::System.Web.UI.WebControls.Button btnAgregarAlumno;
 
         /// <summary>
-        /// Control btnEliminar.
+        /// Control btnEliminarAlumno.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnEliminar;
+        protected global::System.Web.UI.WebControls.Button btnEliminarAlumno;
 
         /// <summary>
-        /// Control btnActualizar.
+        /// Control btnActualizarAlumno.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnActualizar;
+        protected global::System.Web.UI.WebControls.Button btnActualizarAlumno;
 
         /// <summary>
-        /// Control txtBuscar.
+        /// Control txtBuscarAlumno.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtBuscar;
+        protected global::System.Web.UI.WebControls.TextBox txtBuscarAlumno;
 
         /// <summary>
-        /// Control btnBuscar.
+        /// Control btnBuscarAlumno.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnBuscar;
+        protected global::System.Web.UI.WebControls.Button btnBuscarAlumno;
 
         /// <summary>
         /// Control gvAlumno.
@@ -132,85 +141,85 @@ namespace CapaPresentacion.Intranet
         protected global::System.Web.UI.WebControls.TextBox txtCodDocente;
 
         /// <summary>
-        /// Control TextBox1.
+        /// Control txtAPaternoDocente.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox txtAPaternoDocente;
 
         /// <summary>
-        /// Control TextBox2.
+        /// Control txtAMaternoDocente.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox2;
+        protected global::System.Web.UI.WebControls.TextBox txtAMaternoDocente;
 
         /// <summary>
-        /// Control txtNombresDocen.
+        /// Control txtNombresDocente.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtNombresDocen;
+        protected global::System.Web.UI.WebControls.TextBox txtNombresDocente;
 
         /// <summary>
-        /// Control TextBox3.
+        /// Control txtUsuarioDocente.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox3;
+        protected global::System.Web.UI.WebControls.TextBox txtUsuarioDocente;
 
         /// <summary>
-        /// Control Button1.
+        /// Control btnAgregarDocente.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
+        protected global::System.Web.UI.WebControls.Button btnAgregarDocente;
 
         /// <summary>
-        /// Control Button2.
+        /// Control btnEliminarDocente.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button2;
+        protected global::System.Web.UI.WebControls.Button btnEliminarDocente;
 
         /// <summary>
-        /// Control Button3.
+        /// Control btnActualizarDocente.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button3;
+        protected global::System.Web.UI.WebControls.Button btnActualizarDocente;
 
         /// <summary>
-        /// Control TextBox4.
+        /// Control txtBuscarDocente.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox4;
+        protected global::System.Web.UI.WebControls.TextBox txtBuscarDocente;
 
         /// <summary>
-        /// Control Button4.
+        /// Control btnBuscarDocente.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button4;
+        protected global::System.Web.UI.WebControls.Button btnBuscarDocente;
 
         /// <summary>
         /// Control gvDocente.
@@ -249,49 +258,49 @@ namespace CapaPresentacion.Intranet
         protected global::System.Web.UI.WebControls.TextBox txtCodRequisito;
 
         /// <summary>
-        /// Control Button5.
+        /// Control btnAgregarAsignatura.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button5;
+        protected global::System.Web.UI.WebControls.Button btnAgregarAsignatura;
 
         /// <summary>
-        /// Control Button6.
+        /// Control btnEliminarAsignatura.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button6;
+        protected global::System.Web.UI.WebControls.Button btnEliminarAsignatura;
 
         /// <summary>
-        /// Control Button7.
+        /// Control btnActualizarAsignatura.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button7;
+        protected global::System.Web.UI.WebControls.Button btnActualizarAsignatura;
 
         /// <summary>
-        /// Control TextBox5.
+        /// Control txtBuscarAsignatura.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox5;
+        protected global::System.Web.UI.WebControls.TextBox txtBuscarAsignatura;
 
         /// <summary>
-        /// Control Button8.
+        /// Control btnBuscarAsignatura.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button8;
+        protected global::System.Web.UI.WebControls.Button btnBuscarAsignatura;
 
         /// <summary>
         /// Control gvAsignatura.

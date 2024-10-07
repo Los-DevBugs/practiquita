@@ -16,3 +16,9 @@ C:\Users\HP\Downloads\sistema-academico-edu\CapaNegocio\obj\Debug\CapaNegocio.cs
 C:\Users\HP\Downloads\sistema-academico-edu\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
 C:\Users\HP\Downloads\sistema-academico-edu\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\HP\Downloads\sistema-academico-edu\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\bilro\OneDrive\Desktop\PRACTICA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\bilro\OneDrive\Desktop\PRACTICA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\bilro\OneDrive\Desktop\PRACTICA\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\bilro\OneDrive\Desktop\PRACTICA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\bilro\OneDrive\Desktop\PRACTICA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\bilro\OneDrive\Desktop\PRACTICA\CapaNegocio\obj\Debug\CapaNegocio.pdb
